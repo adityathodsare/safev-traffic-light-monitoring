@@ -5,6 +5,10 @@ import pytesseract
 import numpy as np
 import sys
 
+
+
+
+
 print("🔍 Checking your setup...\n")
 
 # Check OpenCV
